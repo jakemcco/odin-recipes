@@ -1,0 +1,42 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* preparing classes for future styling needs  */
+.homepage-title{
+    color:black;
+    text-decoration:underline;
+}
+
+.recipe-name{
+    color:white;
+    background-color:navy;
+}
+
+
+.recipe-image{
+    color:black;
+}
+
+.recipe-desc{
+    color:white;
+    background-color:navy
+}
+
+.recipe-ingred{
+    color: white;
+    background-color:navy;
+}
+
+.recipe-instruct{
+    color:white;
+    background-color:navy
+}
+
+ul a{
+    background-color:rgb(250, 152, 39);
+    color:black;
+    font-size: x-large;
+}
+
